@@ -6,8 +6,6 @@ public class food {
 		// TODO Auto-generated method stub
 
 		System.out.println("チーズ");
-		System.out.println("色々な料理に使える");
-		System.out.println("そのままでもおいしい");
 		
 	}
 
