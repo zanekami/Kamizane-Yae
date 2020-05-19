@@ -7,6 +7,7 @@ public class food {
 
 		System.out.println("チーズ");
 		System.out.println("特にクリームチーズが好きです");
+		System.out.println("色々な料理に使るし、そのままでも美味しいので好きです");
 		
 		
 	}
