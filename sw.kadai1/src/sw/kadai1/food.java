@@ -6,6 +6,8 @@ public class food {
 		// TODO Auto-generated method stub
 
 		System.out.println("チーズ");
+		System.out.println("特にクリームチーズが好きです");
+		
 		
 	}
 
